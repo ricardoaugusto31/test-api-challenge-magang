@@ -233,6 +233,3 @@ File Postman collection tersedia di folder `postman/`:
 3. Jalankan **Login** - token akan otomatis tersimpan
 4. Sekarang bisa akses semua endpoint yang butuh authentication
 
-## 📄 License
-
-This project is MIT licensed.
